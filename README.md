@@ -11,7 +11,7 @@
         - Mouse 1 - place building
         - [, ] - change time of day
 
-## **!!! A graphics card supporting DirectX 12 for the terrain generation demo.**
+**A graphics card supporting DirectX 12 is required for the terrain generation demo.**
 
 # Audio reverb demo:
     * Controls:
